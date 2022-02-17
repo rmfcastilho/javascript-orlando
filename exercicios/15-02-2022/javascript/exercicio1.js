@@ -14,10 +14,23 @@ function foobar(numeroEntrada){
     }
     if(!(numeroEntrada % 5))
     {
-            mensagem = mensagem + "bar"
+            mensagem += "bar"
     }
     
     return mensagem
 }
 
-console.log(foobar(5))
+console.log(foobar(3))
+
+/* outra maneira
+function foobar(numeroEntrada){
+    numeroEntrada = parseInt(numeroEntrada)
+    let mensagem = ""
+    
+    mensagem = !(numeroEntrada % 3) ? "foo" : mensagem;
+    mensagem = !(numeroEntrada % 5) ? mensagem + "bar" : mensagem;
+
+    return mensagem
+}
+
+*/
