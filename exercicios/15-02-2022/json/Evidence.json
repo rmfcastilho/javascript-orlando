@@ -1,0 +1,71 @@
+{
+  "emf": {
+    "reference": "emf",
+    "label": "EMF Level 5",
+    "hints": [
+      "EMF Level 5 can be confirmed by using the white, controller-shaped meter in the truck.",
+      "The EMF level shown in the screen graph inside the truck can also be used as a mean of detection. Beware this is an ESTIMATED level (+1/0/-1 modifier)",
+      "If no one is in the house and you see the a graph spike of 4, you can be fairly certain you're dealing with an EMF ghost."
+    ]
+  },
+  "box": {
+    "reference": "box",
+    "label": "Spirit Box",
+    "hints": [
+      "Spirit box is the black piece of equipment that looks like a radio/walkie-talkie",
+      "Ghosts will respond to questions such as 'How old are you?', 'Where are you?', and 'Are you friendly?' through it",
+      "For it to work, be sure to be alone (unless stated otherwise in the whiteboard in the truck), with the lights off (your flashlight can be on) in the room where you think the ghost is",
+      "Ghost will only respond if it is in close range"
+    ]
+  },
+  "freezing": {
+    "reference": "freezing",
+    "label": "Freezing Temperatures",
+    "hints": [
+      "Freezing temperatures are characterized by temperatures 0ºC / 32ºF or lower",
+      "It can be identified when puffs of white smoke are coming out of your character's mouth",
+      "It can be confirmed by using the Thermometer (yellow object in the truck).",
+      "Temperatures measured with the Thermometer has a +2/-2 random variation, so logging a 2ºC/34ºF will often be enough to verify Freezing Temperatures",
+      "The ghost room will generally be under 10ºC / 50ºF, but be sure the breaker in the house has been on for at least several minutes before pinpointing the location using this method."
+    ]
+  },
+  "orbs": {
+    "reference": "orbs",
+    "label": "Ghost Orbs",
+    "hints": [
+      "Ghost Orbs are tiny, circle-shaped specs that can be identified through a video camera.",
+      "A Ghost Orb will pop in and out of existence after floating up and down for a second or two.",
+      "Orbs are easier to find when the ghost room's lights are off and you're using the night vision mode in the truck.",
+      "If someone is in the ghost room, make sure to not mistake any potential visible breaths for ghost orbs."
+    ]
+  },
+  "fingerprints": {
+    "reference": "fingerprints",
+    "label": "Fingerprints",
+    "hints": [
+      "Fingerprints are a sizeable, green hand print ghosts leave in objects after interacting with them",
+      "Fingerprints can be detected by using an ultra-violet flashlight or glow sticks on a door, window, light switch or keyboard the ghost has interacted with",
+      "If you hear a door being opened or closed, and the ghost has NOT appeared, there's a very high chance they left fingerprints in it (if they are a fingerprints ghost)",
+      "You can take a photo of a fingerprint to earn money, even if you are not revealing it with UV light"
+    ]
+  },
+  "writing": {
+    "reference": "writing",
+    "label": "Ghost Writing",
+    "hints": [
+      "Ghost Writing can be obtained by taking the open notebook from the truck to the ghost room.",
+      "Ghosts can write on the book even if it's in your hands/inventory, but it's far more productive to leave it somewhere in the room.",
+      "You can look at the ceiling and drop (G, as a standard) the book front facing a video camera and monitor it from the safety of your truck.",
+      "Some ghosts may take a very long time to write in the book, so be careful when dismissing it as evidence."
+    ]
+  },
+  "dots": {
+    "reference": "dots",
+    "label": "D.O.T.S. Projector",
+    "hints": [
+      "Placing the projector on the ground may be a good strategy to cover more ground.",
+      "Ghosts that give this evidence will have their silhouette shown in high speed sporadically in the green dots.",
+      "You can see this item be used from the safety of the truck, although beware ghosts sporadically knock it off."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+Exercício 1:
+Criar uma função que recebe um número
+Se esse número for divisível por 3 (sem resto), retornar a palavra "foo"
+Se esse número for divisível por 5 (sem resto), retornar a palavra "bar"
+Se for divisível por 3 e por 5 (sem resto), retornar a palavra "foobar"
+
+Exercício 2:
+Dado esse array:
+const arrayAleatorio = [2, 64, 21, 25, 82, 98, 12, 421, 135, 132, 839, 128, 139, 12489, 12478, 21479]
+
+Crie uma função que conte quantos números pares existem
+
+Exercício 3 - HARD MODE:
+Crie uma função que toma como argumento uma palavra.
+
+Se essa palavra for um palíndromo (dá pra ler de frente pra trás e trás pra frente da mesma forma, tipo RADAR), retornar TRUE. Senão, retornar FALSE.
+
+Desafios Master - Arquivos JSON:
+Criar uma função que conte a quantidade de fantasmas que existem no Ghosts.json
+Criar uma função que recebe o nome de um fantasma e retorna sua descrição
+Criar uma função que valida se o fantasma existe. Se existir, retorna as evidencias pra ele. Senão, retorna "fantasma inexistente".
+
+Desafio Ultra Master Blaster:
+Criar uma função que recebe o nome do fantasma, valida se ele existe. Se existir, retornar o LABEL de cada evidencia (que está em Evidence.json)
