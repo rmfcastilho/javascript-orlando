@@ -8,6 +8,8 @@ Esses exercícios são módulos individuais de Node.js - te explico o que é dep
 
 Cada exercício tem um README.md para indicar qual o contexto e o que precisa ser feito, mas fiz esse aqui porque existem métodos que vão ser úteis que não te passei da última vez que conversamos.
 
+Comece pelo `calculadoraDeCalorias`, que é mais simples e funciona como um bom aquecimento.
+
 ## Métodos 
 
 ### Métodos de objeto
