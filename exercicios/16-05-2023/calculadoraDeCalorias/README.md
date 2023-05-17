@@ -50,4 +50,4 @@ Somente as áreas demarcadas do `index.js` e todos os arquivos que não tenham `
 
 ## Dicas
 
-Pesquise a respeito dos métodos `parseInt()` e `replace()`.
+Pesquise a respeito dos métodos `parseFloat()`, `toFixed()` e `replace()`.
