@@ -2,7 +2,7 @@
 
 MA MAN,
 
-Preparei esses exercícios que são bem mais complexos que os da primeira vez, mas faço isso porque notei sua facilidade em lembrar dos elementos, então resolvi deixar a coisa interessante para ficar mais na cara do tipo de coisa que lido cotidianamente em termos de lidar com fluxo de informações. Preciso mexer com métodos de objetos e arrays, então os dois exercícios são bem voltados pra isso.
+Preparei esses exercícios que são bem mais complexos que os da primeira vez, mas faço isso porque notei sua facilidade em lembrar dos elementos, então resolvi deixar a coisa interessante para ficar mais na cara do tipo de coisa que lido cotidianamente em termos de fluxo de informações. Preciso mexer com métodos de objetos e arrays, então os dois exercícios são bem voltados pra isso.
 
 Cada um é um módulo individual de Node.js - te explico o que é depois - mas essencialmente fiz isso pra a) termos testes automatizados pra validar se teu código está tendo o resultado esperado; e b) assim podemos dividir o código em diversos arquivos pequenos e não temos que ficar analisando um trambolho de 1000 linhas depois.
 
